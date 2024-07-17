@@ -187,3 +187,4 @@ outputs-gradio/
 
 # wandb
 wandb/
+.idea/*
